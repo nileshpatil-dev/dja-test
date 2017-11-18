@@ -11,6 +11,6 @@ clone this repo
 
 #open browser and go to http://localhost:4200
 
-#Done
+#Login with any valid email address(valid email format) any password
 
 
